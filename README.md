@@ -37,3 +37,5 @@ python app.py                     # launch the web app
 ```
 
 Requires: `torch`, `torchvision`, `mediapipe`, `opencv-python`, `gradio`, `scikit-learn`, `imagehash`, `matplotlib`.
+
+# GuitarChordPrediction
