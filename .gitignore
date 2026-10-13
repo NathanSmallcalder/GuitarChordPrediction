@@ -1,0 +1,17 @@
+# Scraper.py's Chrome profile - contains cookies/logins, never commit
+.chrome-profile/
+
+# Dataset - too big for git, share it separately
+data/
+
+# Old checkpoints
+chord_model.pth
+chord_cnn_baseline.pt
+
+# train.py caches (rebuilt automatically)
+outputs/*.npy
+
+# Python / editor clutter
+__pycache__/
+.venv/
+.vscode/
